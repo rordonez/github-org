@@ -34,28 +34,21 @@ teams = {
 team_members = {
   Backend = [
     {
-      username = "user1"
+      username = "rordonez"
       role = "member"
     },
-    {
-      username = "user2"
-      role = "member"
-    }
   ]
   Frontend = [
     {
-      username = "user2"
+      username = "rordonez"
       role = "member"
     }
   ]
 }
 
 members = {
-  user1 = {
-    role = "member"
-  }
-  user2 = {
-    role = "member"
+  rordonez = {
+    role = "admin"
   }
 }
 
